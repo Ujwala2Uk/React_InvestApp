@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "React_InvestApp", "React_InvestApp.csproj", "{78A331F6-D7E9-44CC-8CB5-D29AB2C1100D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78A331F6-D7E9-44CC-8CB5-D29AB2C1100D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A331F6-D7E9-44CC-8CB5-D29AB2C1100D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A331F6-D7E9-44CC-8CB5-D29AB2C1100D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A331F6-D7E9-44CC-8CB5-D29AB2C1100D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A86A3E53-BEDE-4950-958A-792C2CE0E2B3}
+	EndGlobalSection
+EndGlobal
